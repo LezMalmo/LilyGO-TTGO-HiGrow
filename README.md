@@ -26,7 +26,15 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-A step by step that tell you how to get a development/production environment up and running
+A step by step that tell you how to get a development/production environment up and running,  [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g)  have created the two tutorials on YouTube, which gives a detailed instruktion how to get it all to work. He has performed a tremendous task in doing this.
+
+First video is how to setup the whole environment: https://www.youtube.com/watch?v=7w6_ZkLDxko&t=231s
+
+Second video is how to configurate the sensors into Home-Assistant: https://www.youtube.com/watch?v=AmsmAuHolHw
+
+I highly recommend that your see and follow these two videos, as then you only will have success in setting this up.
+
+After seeing the videos, remenber to give a "Thumbs Up" to support BeardedThinker in his work.
 
 1. Setup the Arduino EDI
 2. Download the .ino file
