@@ -26,7 +26,9 @@ What things you need to install the software and how to install them
 
 ### Installing
 
-A step by step that tell you how to get a development/production environment up and running,  [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g)  have created the two tutorials on YouTube, which gives a detailed instruktion how to get it all to work. He has performed a tremendous task in doing this.
+Below a step by step that tell you how to get a development/production environment up and running, and to make things even more easy,  [BeardedTinker](https://www.youtube.com/channel/UCuqokNoK8ZFNQdXxvlE129g)  have created the two tutorials on YouTube, which gives a detailed instruktion how to get it all to work. 
+
+He has performed a tremendous task in doing this.
 
 First video is how to setup the whole environment: https://www.youtube.com/watch?v=7w6_ZkLDxko&t=231s
 
