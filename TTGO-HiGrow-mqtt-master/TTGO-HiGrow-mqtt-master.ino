@@ -21,7 +21,8 @@
 //           rel = "1.3"; // Corrected error if MQTT broker not available, battery drainage solved by goto sleep 5 minutes
 //           rel = "1.4"; // Calibrate SOIL info messages where to be done
 //           rel = "1.5"; // Implemented logfile in SPIFFS, and optimizing code. (DHT11 not implementet, but it only affects Air Temperature and Air Humidity, which I currently not use in my project. It will be implemented in a later release.
-const String rel = "1.6"; // Implemented MQTT userid and password, and adapted so DHT11, DHT12 and DHT22 can be used.
+//           rel = "1.6"; // Implemented MQTT userid and password, and adapted so DHT11, DHT12 and DHT22 can be used.
+const String rel = "1.7"; // Correcting error, that counter sleep5no was not updated.
 // *******************************************************************************************************************************
 // START userdefined data
 // *******************************************************************************************************************************
@@ -69,7 +70,7 @@ const char* topic = topicStr.c_str();
 // *******************************************************************************************************************************
 
 RTC_DATA_ATTR int bootCount = 0;
-int sleep5no = 0;
+RTC_DATA_ATTR int sleep5no = 0;
 
 //json construct setup
 struct Config {
