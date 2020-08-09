@@ -146,6 +146,8 @@ See instructions under **Prerequisites**
 
 1.6 Implementing MQTT username and password, and made compatible for DHT11, DHT12. (DHT22 not testet yet.)
 
+1.7 Correcting that counter sleep5no did not update
+
 ### Authors
 
 * **Per Rose** 
