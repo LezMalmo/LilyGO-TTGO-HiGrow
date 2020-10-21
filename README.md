@@ -5,6 +5,10 @@
 
 
 
+VERSION 1.X.X IS NO LONGER SUPPORTET, I HAVE CHANGED TO A MUCH BETTER VERSION, BEING VERSION 3.X.X, WHICH CAN BE FOUND <a href="https://github.com/pesor/LILYGO-TTGO-T-Higrow"> HERE https://github.com/pesor/LILYGO-TTGO-T-Higrow</a>  
+
+
+
 ### Getting started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
