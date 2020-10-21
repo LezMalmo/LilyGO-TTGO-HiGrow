@@ -1,7 +1,7 @@
 # LilyGO-TTGO-HiGrow
 ## TTGO-HIGrow MQTT interface for Homeassistant
 
-##VERSION 1.X.X IS NO LONGER SUPPORTET, I HAVE CHANGED TO A MUCH BETTER VERSION, BEING VERSION 3.X.X, WHICH CAN BE FOUND HERE https://github.com/pesor/LILYGO-TTGO-T-Higrow
+# VERSION 1.X.X IS NO LONGER SUPPORTET, I HAVE CHANGED TO A MUCH BETTER VERSION, BEING VERSION 3.X.X, WHICH CAN BE FOUND HERE https://github.com/pesor/LILYGO-TTGO-T-Higrow
 
 ![T-Higrow](https://github.com/pesor/LilyGO-TTGO-HiGrow/blob/master/images/T-Higrow.jpg?raw=true)
 
